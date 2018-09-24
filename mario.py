@@ -3,7 +3,7 @@
 """
 
 # Import everything we need
-from sense_hat import SenseHat, ACTION_PRESSED, ACTION_HELD, ACTION_RELEASED
+from sense_hat import SenseHat, ACTION_RELEASED
 
 # Loading in SenseHat 
 try:
